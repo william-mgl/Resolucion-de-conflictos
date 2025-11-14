@@ -1,1 +1,3 @@
 Versión A de la línea
+Versión B de la misma línea
+
